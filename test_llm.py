@@ -15,3 +15,5 @@ response = chat(
 
 print("3. Response received")
 print(response.message.content)
+print("DONE")
+print("new")
